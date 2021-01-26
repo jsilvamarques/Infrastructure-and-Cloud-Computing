@@ -1,6 +1,9 @@
 ## Atividade 01 - Terraform
 
-Grupo: Jefferson Marques da Silva e Melissa de Souza Amélia.
+Grupo: 
+* Jefferson Marques da Silva  
+* Melissa de Souza Amélia
+* Antonio Augusto Gaspar Merlini
 
 Subir uma máquina virtual no Azure ou AWS instalando o MySQL e que esteja acessível no host da máquina na porta 3306.
 
